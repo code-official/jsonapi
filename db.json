@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "hellohi",
+      "lastName": "bye",
+      "email": "hello@gmail.com",
+      "mobile": "0321654789",
+      "salary": "60000"
+    },
+    {
+      "id": 3,
+      "firstName": "test",
+      "lastName": "testy",
+      "email": "test@mail.com",
+      "mobile": "4565213652",
+      "salary": "50000"
+    },
+    {
+      "id": 4,
+      "firstName": "test1",
+      "lastName": "testyy1",
+      "email": "test1@gmail.com",
+      "mobile": "2136541232",
+      "salary": "60000"
+    },
+    {
+      "id": 5,
+      "firstName": "testtest",
+      "lastName": "testytesty",
+      "email": "testtesty@mail.com",
+      "mobile": "1245789632",
+      "salary": "50000"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
